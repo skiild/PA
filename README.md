@@ -1,7 +1,7 @@
 # Social Graph : Project Assignement
 
 To get information about what is the project is about, and have key data about the graph, please visit the website : http://dtu-graph.lyxx.fr \
-To try our solution, then check out webapp : http://dtu-graph.lyxx.fr/webapp
+To try our solution, then check out webapp : http://dtu-graph.lyxx.fr/webapp (takes about 1mn to launch as the server has to reinstall requirements.txt's packages)
 
 ## About this notebook
 
